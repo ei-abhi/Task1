@@ -89,6 +89,7 @@ plt.title("Box Plot For Age")
 plt.show()
 ```
 
+- Output : ![image](https://github.com/user-attachments/assets/3c8136ad-93f7-411e-be98-5b237568e3c7)
 - Uses a **boxplot** to visualize outliers in the `Age` column.
 
 ---
@@ -108,6 +109,9 @@ df_new = remove_outliers_iqr(df_new, 'Age')
 ```
 
 - Defines and applies a function to remove outliers using the **Interquartile Range (IQR)** method.
+
+- Output After Removing Outliers : ![image](https://github.com/user-attachments/assets/8db03388-a7f0-4a73-885c-294cb559fdf4)
+
 
 ---
 
