@@ -89,9 +89,8 @@ plt.title("Box Plot For Age")
 plt.show()
 ```
 
-- Output : ![image](https://github.com/user-attachments/assets/3c8136ad-93f7-411e-be98-5b237568e3c7)
 - Uses a **boxplot** to visualize outliers in the `Age` column.
-
+- Boxplot Showing Outliers in Age Feature : ![image](https://github.com/user-attachments/assets/3c8136ad-93f7-411e-be98-5b237568e3c7)
 ---
 
 ### 7. **Removing Outliers (IQR Method)**
